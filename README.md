@@ -12,7 +12,7 @@ A PDF report has been made to address specificities on each question
 
 Specific Breakdown:
 
-Q1. Numerical Programming (1+4+4+1=10 points): Performed a speed comparison of two types of code, comparing non-vectorized code (for-loop) and a
+Q1. Numerical Programming: Performed a speed comparison of two types of code, comparing non-vectorized code (for-loop) and a
 vectorized version (Numpy). 
 
 Q2. Visualization Exploration: Exploration of the Iris Dataset
